@@ -1,0 +1,4 @@
+{
+	"fileUris": ["https://raw.githubusercontent.com/gelim/azure-extensions/main/touch.sh"],
+	"commandToExecute": "./touch.sh"
+}
